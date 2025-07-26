@@ -195,3 +195,59 @@
 }
     
 /* about section end */
+
+/* small card section start */
+.card1{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.container2{
+    padding-top: 40px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    color: #101010;
+}
+.img{
+    width: 424px;
+    border: none;
+    border-radius: 16px;
+}
+
+.s-p1{
+    padding: 5px 15px;
+    height: 30px;
+    width: 187;
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 10px;
+    color: #101010;
+    justify-content: center;
+    background-color: #d2f2d2;
+    align-items: center;
+    margin: 30px 70px 10px;
+}
+.h3{
+    margin-top: 40px;
+    font-size: 80px;
+    font-weight: bold;
+    line-height: 80px;
+    font-family: sans-serif;
+    margin: 15px 0 10px;
+    padding-bottom: 10px;
+}
+.text-only-opacity2{
+    color: #101010;
+    opacity: 0.7;
+}
+.s-p2{
+     font-size: 10px;
+     padding: 10px;
+     line-height: 16px;
+     color: #101010;
+     margin-bottom: 10px;
+}
+/* small card section end */
