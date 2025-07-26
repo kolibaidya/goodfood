@@ -132,3 +132,66 @@
 
 
 /* card box section end */
+/* about section start */
+.about{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a-img{
+
+}
+
+.a-content{
+   padding-top: 30px;
+   width: 80%;
+   margin: 0 auto;
+   text-align: center;
+   color: #101010;
+}
+.h2{
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 100px;
+    font-family: sans-serif;
+    padding-bottom: 24px;
+}
+.text-only-opacity{
+    color: #101010;
+    opacity: 0.6;
+}
+.a-p1{
+    padding-top: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: auto;
+    padding-bottom: 32px;
+}
+.text-only- opacity4{
+    color: #101010;
+    opacity: 0.7;
+}
+.a-p2{
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    height: auto;
+    text-align: center;
+    padding-bottom: 32px;
+}
+.icon-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    
+}
+.icon-links img{
+    width: 40px;
+    height: 40px;
+    
+}
+    
+/* about section end */
